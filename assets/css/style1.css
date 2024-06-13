@@ -1,7 +1,16 @@
-form{
+body{
     background-color: aqua;
-    width: 80%;
+}
+form{
+    background-color: bisque;
+    width: 60%;
     margin: auto;
+}
+tr{
+    background-color: aliceblue;
+}
+span{
+    color: purple;
 }
 legend{
     text-align: center;
@@ -11,7 +20,7 @@ label, input, button, h1, p, h3{
     display: block;
 }
 label, input, button, p{
-    margin-bottom: 20px ;
+    margin-bottom: 5px ;
 }
 h1, h3{
     margin-bottom: 50px ;
@@ -34,5 +43,5 @@ input{
     margin: 1px;
 }
 #img1{
-    width:100%;
+    width: 100%;
 }
